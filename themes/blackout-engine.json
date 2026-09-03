@@ -1,0 +1,106 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+  "name": "Blackout Engine",
+  "author": "Erik Praznovský <erik@virtualsoaring.eu>",
+  "themes": [
+    {
+      "name": "Blackout Engine",
+      "appearance": "dark",
+      "style": {
+        "background": "#0d0f11ff",
+        "foreground": "#abb2bfff",
+        "accent": "#528bffff",
+        "editor.background": "#0d0f11ff",
+        "editor.foreground": "#ABB2BFFF",
+        "editor.gutter": "#1a1d22ff",
+        "editor.gutter.foreground": "#636d8388",
+        "editor.cursor": "#528bffff",
+        "editor.invisibles": "#747369ff",
+        "editor.line_highlight": "#8cc2fc0b",
+        "editor.selection": "#bbccf51b",
+        "editor.selection.border": "#bbccf51b",
+        "editor.selection.inactive": "#bbccf51b",
+        "editor.guide": "#464c55",
+        "editor.guide.active": "#464c55",
+        "editor.guide.stack": "#464c55",
+        "panel.background": "#15191dff",
+        "text": "#e0e4e7ff",
+        "text.muted": "#99a3acff",
+        "text.placeholder": "#707982ff",
+        "text.disabled": "#5f6871ff",
+        "text.accent": "#6f8396ff",
+        "syntax": {
+          "primary": {
+            "color": "#cd74e8"
+          },
+          "comment": {
+            "color": "#5F697AFF",
+            "font_style": "italic"
+          },
+          "keyword": {
+            "color": "#CD74E8FF"
+          },
+          "operator": {
+            "color": "#adb7c9"
+          },
+          "variable": {
+            "color": "#eb6772"
+          },
+          "function": {
+            "color": "#5CB3FAFF"
+          },
+          "class": {
+            "color": "#f0c678"
+          },
+          "string": {
+            "color": "#9acc76"
+          },
+          "number": {
+            "color": "#db9d63"
+          },
+          "constant": {
+            "color": "#cd74e8"
+          },
+          "tag": {
+            "color": "#eb6772"
+          },
+          "attribute": {
+            "color": "#db9d63"
+          },
+          "regexp": {
+            "color": "#5ebfcc"
+          },
+          "escape": {
+            "color": "#5ebfcc"
+          },
+          "embedded": {
+            "color": "#c94e42"
+          },
+          "comment.doc": {
+            "color": "#5F697AFF"
+          },
+          "selector": {
+            "color": "#BC6CD4FF"
+          }
+        },
+        "players": [],
+        "panel.overlay_hover": "#0d0f11ff",
+        "link_text.hover": "#6f8396ff",
+        "icon": "#e0e4e7ff",
+        "icon.muted": "#99a3acff",
+        "icon.disabled": "#5f6871ff",
+        "icon.accent": "#6f8396ff",
+        "editor.gutter.background": "#0d0f11ff",
+        "status_bar.background": "#0d0f11ff",
+        "title_bar.background": "#0d0f11ff",
+        "toolbar.background": "#0d0f11ff",
+        "element.background": "#0d0f11ff",
+        "tab.active_background": "#0d0f11ff",
+        "terminal.background": "#0d0f11ff",
+        "terminal.foreground": "#ABB2BFFF"
+      }
+    }
+  ],
+  "isUserGenerated": true,
+  "description": "Dark theme for brighter days."
+}
