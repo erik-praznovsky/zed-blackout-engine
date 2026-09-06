@@ -1,5 +1,5 @@
 # zed-blackout-engine
-Dark theme for brighter days (Zed editor).
+Dark theme for Zed editor - Neon/Pastel variants.
 ## Screenshots
 
-![Blackout Engine](screenshot.png "Blackout Engine")
+![Blackout Engine](screenshot.webp "Blackout Engine")
