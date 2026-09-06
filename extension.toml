@@ -1,7 +1,7 @@
 id = "blackout-engine"
 name = "Blackout Engine"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["Erik Praznovský <erik@virtualsoaring.eu>"]
-description = "Dark theme for brighter days."
-repository = "https://github.com/your-name/my-zed-extension"
+description = "Dark theme for Zed editor - Neon/Pastel variants."
+repository = "https://github.com/erik-praznovsky/zed-blackout-engine"
